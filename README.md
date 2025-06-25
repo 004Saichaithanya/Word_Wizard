@@ -49,7 +49,7 @@ dictionary-app/
 1. Download or clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/dictionary-app.git
+   git clone https://github.com/004Saichaithanya/Word_Wizard.git
    ```
 
 2. Open `index.html` in your browser.
